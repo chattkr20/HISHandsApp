@@ -14,6 +14,7 @@
 		71AED36928E8B52800A95092 /* HISHandsApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 71AED36728E8B52800A95092 /* HISHandsApp.xcdatamodeld */; };
 		71AED36B28E8B52900A95092 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71AED36A28E8B52900A95092 /* Assets.xcassets */; };
 		71AED36E28E8B52900A95092 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71AED36C28E8B52900A95092 /* LaunchScreen.storyboard */; };
+		71AED37628E8B7BB00A95092 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71AED37528E8B7BB00A95092 /* ResultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		71AED36A28E8B52900A95092 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71AED36D28E8B52900A95092 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71AED36F28E8B52900A95092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71AED37528E8B7BB00A95092 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				71AED35E28E8B52800A95092 /* AppDelegate.swift */,
 				71AED36028E8B52800A95092 /* SceneDelegate.swift */,
 				71AED36228E8B52800A95092 /* ViewController.swift */,
+				71AED37528E8B7BB00A95092 /* ResultsViewController.swift */,
 				71AED36428E8B52800A95092 /* Main.storyboard */,
 				71AED36A28E8B52900A95092 /* Assets.xcassets */,
 				71AED36C28E8B52900A95092 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				71AED36328E8B52800A95092 /* ViewController.swift in Sources */,
 				71AED35F28E8B52800A95092 /* AppDelegate.swift in Sources */,
 				71AED36128E8B52800A95092 /* SceneDelegate.swift in Sources */,
+				71AED37628E8B7BB00A95092 /* ResultsViewController.swift in Sources */,
 				71AED36928E8B52800A95092 /* HISHandsApp.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

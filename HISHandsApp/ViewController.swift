@@ -8,12 +8,17 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var answer1Label: UITextField!
+    @IBOutlet weak var answer2Label: UITextField!
+    @IBOutlet weak var answer3Label: UITextField!
+    @IBOutlet weak var answer4Label: UITextField!
+    @IBOutlet weak var answer5Slider: UISlider!
+    @IBOutlet weak var answer6Label: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
+    
 }
 
